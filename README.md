@@ -15,7 +15,9 @@ public class Problem {
         String input = br.readLine();
         
         // 여러 숫자 입력
-        List<Integer> nums = 
+        List<Integer> nums = Stream.of(br.readLine().split(" "))
+                .map(Integer::parseInt)
+                .collect(Collectors.toList());
     }
 }
 ```
