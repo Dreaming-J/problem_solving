@@ -13,6 +13,14 @@ public class 의상 {
 //                .reduce(1L, (x, y) -> x * (y + 1))
 //                .intValue() - 1;
 
+//        개량
+//        return Arrays.stream(clothes)
+//                .collect(groupingBy(cloth -> cloth[1], counting()))
+//                .values()
+//                .stream()
+//                .reduce(1L, (x, y) -> x * (y + 1))
+//                .intValue() - 1;
+
 
         int answer = 1;
         HashMap<String, Integer> hm = new HashMap<>();
