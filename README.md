@@ -18,6 +18,13 @@ public class Problem {
         List<Integer> nums = Stream.of(br.readLine().split(" "))
                 .map(Integer::parseInt)
                 .collect(Collectors.toList());
+        
+        // 여러 입력
+        // ex) kim jong heon
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        String a = st.nextToken(); //kim
+        String b = st.nextToken(); //jong
+        String c = st.nextToken(); //heon
     }
 }
 ```
