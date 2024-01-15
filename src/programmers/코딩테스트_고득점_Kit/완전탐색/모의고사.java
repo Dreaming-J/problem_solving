@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩테스트_고득점_Kit.완전탐색;
 
 import java.util.ArrayList;
 import java.util.Arrays;

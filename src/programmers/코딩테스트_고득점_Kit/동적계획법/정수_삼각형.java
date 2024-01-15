@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩테스트_고득점_Kit.동적계획법;
 
 public class 정수_삼각형 {
     public int solution(int[][] triangle) {
