@@ -1,4 +1,4 @@
-package programmers.코딩테스트_입문;
+package programmers.코딩테스트_입문.정답률_60대;
 
 import java.util.Comparator;
 import java.util.HashMap;

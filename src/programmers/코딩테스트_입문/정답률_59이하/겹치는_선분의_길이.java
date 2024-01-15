@@ -1,4 +1,4 @@
-package programmers.코딩테스트_입문;
+package programmers.코딩테스트_입문.정답률_59이하;
 
 public class 겹치는_선분의_길이 {
     public int solution(int[][] lines) {

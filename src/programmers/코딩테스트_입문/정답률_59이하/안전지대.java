@@ -1,4 +1,4 @@
-package programmers.코딩테스트_입문;
+package programmers.코딩테스트_입문.정답률_59이하;
 
 public class 안전지대 {
     public void classify(int[][] board, int x, int y) {

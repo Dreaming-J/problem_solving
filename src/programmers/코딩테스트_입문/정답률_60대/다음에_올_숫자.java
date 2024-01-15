@@ -1,4 +1,4 @@
-package programmers.코딩테스트_입문;
+package programmers.코딩테스트_입문.정답률_60대;
 
 public class 다음에_올_숫자 {
     public int solution(int[] common) {

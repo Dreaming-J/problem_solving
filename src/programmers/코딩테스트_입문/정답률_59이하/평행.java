@@ -1,8 +1,4 @@
-package programmers.코딩테스트_입문;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
+package programmers.코딩테스트_입문.정답률_59이하;
 
 public class 평행 {
 
